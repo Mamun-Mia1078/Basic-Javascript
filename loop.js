@@ -1,5 +1,5 @@
-var sum=0;
-for(var x = 5; x<=10; x= x+1){
-    sum = sum +x;
+var nam = 'Bismillahir Rahmanir Rahim';
+for(var i=0;i<50; i++){
+    console.log (nam);
+    console.log("Allahr name shuru korchi ");
 }
-console.log(sum);

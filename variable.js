@@ -1,4 +1,4 @@
-var x =10;
-var y = 5;
-var z =x+y;
-// how write varibles in js
+var name = ("Muzammel hoque Mamun");
+var age = 22;
+var skill = ['HTML','CSS','Boostrap','JS']
+console.log(name,age,skill);
