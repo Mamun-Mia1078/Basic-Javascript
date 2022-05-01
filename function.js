@@ -1,5 +1,4 @@
-function ghum()
-{   console.log("Wake up at 8pm")
+function add(a,b){
+    return a+b;
 }
-console.log("Rahim");
-console.log("the man who takes up farming us ");
+console.log(add(10,122));
